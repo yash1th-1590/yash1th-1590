@@ -1,5 +1,7 @@
 # 💫 About Me:
-Aspiring Developer with strong problem-solving skills and a solid foundation in computer science concepts. Experienced in <br>developing web applications and AI-assisted tools using Python, Flask, and modern development practices. Passionate about <br>building efficient solutions, optimizing code performance, and continuously learning new technologies to contribute to innovative <br>and high-impact software systems.  
+Computer Science student | Building impactful web and AI-assisted tools
+Strong in Programming Fundamentals | DSA | System Design Basics
+Driven by problem-solving | Writing efficient, scalable code | Continuous learner  
 
 
 # 💻 Tech Stack:
