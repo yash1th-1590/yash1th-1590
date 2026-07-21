@@ -2,7 +2,7 @@
 
 Computer Science undergraduate at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad, with a strong interest in software engineering and artificial intelligence.  
 Passionate about building scalable full-stack applications and intelligent software systems using modern development technologies.  
-Resume: [View Here](https://portfolio-yash1th.vercel.app/SWInternshipResume.pdf)
+**Resume:** [View Here](https://portfolio-yash1th.vercel.app/SWInternshipResume.pdf)
 ### Skills
 **Languages:** Python, Java, JavaScript, C  
 **Backend:** Flask, Django, REST APIs  
