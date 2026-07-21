@@ -1,6 +1,7 @@
 # Battu Yashwanth Reddy
 
-Computer Science undergraduate at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad (CGPA: 9.18). Interested in backend engineering, artificial intelligence, and building scalable software systems.
+Computer Science undergraduate at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad. 
+Interested in software engineering, artificial intelligence, and building fullstack software systems.
 
 ### Skills
 **Languages:** Python, Java, JavaScript, C  
