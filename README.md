@@ -10,7 +10,7 @@ Passionate about building scalable full-stack applications and intelligent softw
 **Tools:** Git, GitHub, Linux, Postman
 
 ### Connect
-- GitHub: https://github.com/yash1th-1590
-- LinkedIn: https://linkedin.com/in/yashwanthreddybattu
-- Email: battuyashwanthreddy@gmail.com
+- LinkedIn: [View Here](https://linkedin.com/in/yashwanthreddybattu)
 - Portfolio: [View Here](https://portfolio-yash1th.vercel.app/)
+- Email: battuyashwanthreddy@gmail.com
+  
